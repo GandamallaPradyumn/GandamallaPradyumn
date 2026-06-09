@@ -1,15 +1,23 @@
+<!-- Top Wave Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00B4D8&height=200&section=header&text=Pradyumn%20Gandamalla&fontSize=40&fontColor=ffffff&animation=fadeIn&desc=Data%20Analyst%20%7C%20Python%20Developer&descSize=20&descAlignY=75" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00B4D8&height=200&section=header&text=Pradyumn%20Gandamalla&fontSize=40&fontColor=ffffff&animation=fadeIn&desc=Data%20%26%20Operations%20Analyst%20%7C%20Python%20Backend%20Developer&descSize=20&descAlignY=75" />
 </p>
+
+<!-- Visitor Counter -->
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=GandamallaPradyumn&label=Profile%20Views&color=0e75b6&style=flat" alt="GandamallaPradyumn" />
+</p>
+
+---
 
 ## 👨‍💻 About Me
 
-🎯 **Data & Operations Analyst | Python Backend Developer** based in India  
-🚀 Passionate about building **data-driven systems**, **backend APIs**, and **operational analytics dashboards**  
-🔭 Currently working on improving **backend architecture** and **scalable data systems**  
-🧠 I love turning raw data into actionable insights  
-💬 Ask me about **Python, FastAPI, SQL, Streamlit, Data Automation**  
-📫 Reach me at **[LinkedIn](https://www.linkedin.com/in/pradyumn-gandamalla)**  
+🎯 **Data & Operations Analyst | Python Backend Developer** based in India
+🚀 Passionate about building **data-driven systems**, **backend APIs**, and **operational analytics dashboards**
+🔭 Currently working on improving **backend architecture** and **scalable data systems**
+🧠 I love turning raw data into actionable insights
+💬 Ask me about **Python, FastAPI, SQL, Streamlit, Data Automation**
+📫 Reach me at **[LinkedIn](https://www.linkedin.com/in/pradyumn-gandamalla)**
 
 ---
 
@@ -38,11 +46,11 @@
 ## 🚀 Featured Projects
 
 ### 📊 Operational Analytics & Productivity Dashboard
-> Developed an end-to-end **FastAPI + Streamlit** dashboard for driver performance, depot productivity, and benchmark variance analysis.  
+> Developed an end-to-end **FastAPI + Streamlit** dashboard for driver performance, depot productivity, and benchmark variance analysis.
 > 🔹 Real-time KPI tracking | 🔹 Automated reporting | 🔹 Variance analysis engine
 
 ### 📈 AI-Based Dynamic Scheduling System
-> Built **predictive analytics models** to support transport scheduling and operational forecasting.  
+> Built **predictive analytics models** to support transport scheduling and operational forecasting.
 > 🔹 Data-driven scheduling | 🔹 Forecasting models | 🔹 Operational optimization
 
 ---
@@ -68,6 +76,14 @@
 
 ---
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/GandamallaPradyumn/GandamallaPradyumn/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+
+---
+
 ## 🤝 Let's Connect
 
 <p align="left">
@@ -82,5 +98,10 @@
 ---
 
 <p align="center">
-  <i>💡 "Data is the new oil — I refine it into insights." </i>
+  <i>💡 "Data is the new oil — I refine it into insights."</i>
+</p>
+
+<!-- Bottom Wave Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00B4D8&height=120&section=footer" />
 </p>
