@@ -1,7 +1,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00B4D8&height=200&section=header&text=Pradyumn%20Gandamalla&fontSize=40&fontColor=ffffff&animation=fadeIn&desc=Data%20Analyst%20%7C%20Python%20Developer&descSize=20&descAlignY=75" />
 </p>
----
 
 ## 👨‍💻 About Me
 
