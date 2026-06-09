@@ -1,13 +1,3 @@
-<!-- Visitor Counter -->
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=GandamallaPradyumn&label=Profile%20Views&color=0e75b6&style=flat" alt="GandamallaPradyumn" />
-</p>
-
-<!-- Animated Header -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=Hi+There!+I'm+Pradyumn+Gandamalla+👋;Data+%26+Operations+Analyst;Python+Backend+Developer;Building+Data-Driven+Systems+🚀" alt="Typing SVG" />
-</p>
-
 ---
 
 ## 👨‍💻 About Me
