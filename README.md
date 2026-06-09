@@ -1,14 +1,6 @@
-<!-- Top Wave Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00B4D8&height=200&section=header&text=Pradyumn%20Gandamalla&fontSize=40&fontColor=ffffff&animation=fadeIn&desc=Data%20%26%20Operations%20Analyst%20%7C%20Python%20Backend%20Developer&descSize=20&descAlignY=75" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00B4D8&height=200&section=header&text=Pradyumn%20Gandamalla&fontSize=40&fontColor=ffffff&animation=fadeIn&desc=Data%20Analyst%20%7C%20Python%20Developer&descSize=20&descAlignY=75" />
 </p>
-
-<!-- Visitor Counter -->
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=GandamallaPradyumn&label=Profile%20Views&color=0e75b6&style=flat" alt="GandamallaPradyumn" />
-</p>
-
----
 
 ## 👨‍💻 About Me
 
