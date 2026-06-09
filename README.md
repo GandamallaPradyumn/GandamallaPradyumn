@@ -1,3 +1,10 @@
+<h1 align="center">👋 Hi, I'm Pradyumn Gandamalla</h1>
+<h3 align="center">Data & Operations Analyst | Python Backend Developer</h3>
+<p align="center">🚀 Passionate about building data-driven systems & backend APIs</p>
+
+
+
+
 ---
 
 ## 👨‍💻 About Me
