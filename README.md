@@ -87,12 +87,6 @@
   </a>
 </p>
 
----
-
-<p align="center">
-  <i>💡 "Data is the new oil — I refine it into insights."</i>
-</p>
-
 <!-- Bottom Wave Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00B4D8&height=120&section=footer" />
