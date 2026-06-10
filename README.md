@@ -116,12 +116,6 @@ An end-to-end AI platform predicting passenger demand and generating operational
 
 ---
 
-## 📈 Contribution Activity
-
-[![Pradyumn's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GandamallaPradyumn&theme=tokyo-night)](https://github.com/GandamallaPradyumn)
-
----
-
 ## 🏆 GitHub Trophies
 
 <p align="center">
@@ -150,13 +144,6 @@ Actively seeking roles in:
 - **Machine Learning Engineering**
 - **Operations Analytics**
 
----
-
-## 💡 Philosophy
-
-> *"Transforming operational data into intelligent decisions through analytics, automation, and AI."*
-
----
 
 ## 🤝 Connect With Me
 
