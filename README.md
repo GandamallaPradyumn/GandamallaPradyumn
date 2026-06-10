@@ -7,7 +7,7 @@ Data Analyst Intern with hands-on experience building end-to-end AI pipelines, a
 
 Developed a **production-grade demand forecasting and dynamic scheduling system** currently in live use at TGSRTC. Seeking Data Analyst or Backend Data Engineer roles.
 
-📍 Hyderabad, Telangana, India &nbsp;|&nbsp; 📧 pradyumngandamalla10@gmail.com
+📍 Hyderabad, Telangana, India &nbsp;|&nbsp; 📧 pradyumngandamalla10@gmail.com; | 7670962506
 
 ---
 
