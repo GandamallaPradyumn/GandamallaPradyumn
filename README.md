@@ -187,9 +187,3 @@ Actively seeking roles in:
   </a>
 </p>
 
----
-
-<!-- 17. FOOTER BANNER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00B4D8&height=120&section=footer" />
-</p>
