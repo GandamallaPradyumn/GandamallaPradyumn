@@ -1,16 +1,20 @@
+<!-- 1. HEADER BANNER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00B4D8&height=200&section=header&text=Pradyumn%20Gandamalla&fontSize=40&fontColor=ffffff&animation=fadeIn&desc=Data%20Analyst%20%7C%20Backend%20Developer%20%7C%20AI%20Systems&descSize=20&descAlignY=75" />
 </p>
+
+<!-- 3. ABOUT ME -->
 ## 🚀 About Me
 
 Data Analyst Intern with hands-on experience building end-to-end AI pipelines, analytical dashboards, backend APIs, and automated data workflows using **Python, XGBoost, FastAPI, Streamlit, and MySQL**.
 
 Developed a **production-grade demand forecasting and dynamic scheduling system** currently in live use at TGSRTC. Seeking Data Analyst or Backend Data Engineer roles.
 
-📍 Hyderabad, Telangana, India &nbsp;|&nbsp; 📧 pradyumngandamalla10@gmail.com; | 7670962506
+📍 Hyderabad, Telangana, India &nbsp;|&nbsp; 📧 pradyumngandamalla10@gmail.com &nbsp;|&nbsp; 📱 +91 7670962506
 
 ---
 
+<!-- 4. EDUCATION -->
 ## 🎓 Education
 
 **B.Tech in Electronics and Computer Engineering**
@@ -20,6 +24,7 @@ Sreenidhi Institute of Science and Technology &nbsp;|&nbsp; June 2024
 
 ---
 
+<!-- 5. PROFESSIONAL EXPERIENCE -->
 ## 💼 Professional Experience
 
 ### Data Analyst Intern — TGSRTC, Hyderabad
@@ -34,6 +39,7 @@ Sreenidhi Institute of Science and Technology &nbsp;|&nbsp; June 2024
 
 ---
 
+<!-- 6. FLAGSHIP PROJECT -->
 ## 🚀 Flagship Project
 
 ### 🚌 TGSRTC Dynamic Scheduling & Demand Forecasting System
@@ -52,6 +58,22 @@ An end-to-end AI platform predicting passenger demand and generating operational
 
 ---
 
+<!-- 7. IMPACT AT A GLANCE -->
+## 📊 Impact at a Glance
+
+| Metric | Value |
+|---|---|
+| 🏢 Depots Monitored | 97+ |
+| 📉 Manual Reporting Reduced | 60% |
+| 📌 KPIs Tracked | 20+ |
+| 🗃️ Records Processed | 10,000+ |
+| 🧪 Unit Tests Written | 123 |
+| 🔮 Forecast Horizon | T+2 Days |
+| 🛠️ Features Engineered | 15+ |
+
+---
+
+<!-- 8. TECH STACK -->
 ## 🛠️ Tech Stack
 
 ### 🐍 Programming Languages
@@ -82,20 +104,19 @@ An end-to-end AI platform predicting passenger demand and generating operational
 
 ---
 
-## 📊 Impact at a Glance
+<!-- 9. SYSTEMS I BUILD -->
+## 🏗️ Systems I Build
 
-| Metric | Value |
-|---|---|
-| 🏢 Depots Monitored | 97+ |
-| 📉 Manual Reporting Reduced | 60% |
-| 📌 KPIs Tracked | 20+ |
-| 🗃️ Records Processed | 10,000+ |
-| 🧪 Unit Tests Written | 123 |
-| 🔮 Forecast Horizon | T+2 Days |
-| 🛠️ Features Engineered | 15+ |
+| 🖥️ Analytics | ⚙️ Backend | 🤖 AI / ML | 🗄️ Data |
+|---|---|---|---|
+| KPI Dashboards | FastAPI Services | Demand Forecasting | ETL Pipelines |
+| Operational Dashboards | REST APIs | Predictive Analytics | Data Warehousing |
+| Variance Trackers | Data Validation | Scheduling Engines | MySQL Schemas |
+| Performance Monitors | Ingestion Pipelines | XGBoost Models | Parquet Stores |
 
 ---
 
+<!-- 10. GITHUB STATS -->
 ## 📈 GitHub Statistics
 
 <p align="center">
@@ -109,6 +130,9 @@ An end-to-end AI platform predicting passenger demand and generating operational
 
 ---
 
+
+
+<!-- 12. GITHUB TROPHIES -->
 ## 🏆 GitHub Trophies
 
 <p align="center">
@@ -117,6 +141,7 @@ An end-to-end AI platform predicting passenger demand and generating operational
 
 ---
 
+<!-- 13. CURRENTLY LEARNING -->
 ## 📚 Currently Learning
 
 - 🏗️ Advanced Data Engineering
@@ -127,6 +152,7 @@ An end-to-end AI platform predicting passenger demand and generating operational
 
 ---
 
+<!-- 14. OPEN TO OPPORTUNITIES -->
 ## 🎯 Open To Opportunities
 
 Actively seeking roles in:
@@ -137,7 +163,16 @@ Actively seeking roles in:
 - **Machine Learning Engineering**
 - **Operations Analytics**
 
+---
 
+<!-- 15. PHILOSOPHY -->
+## 💡 Philosophy
+
+> *"Transforming operational data into intelligent decisions through analytics, automation, and AI."*
+
+---
+
+<!-- 16. CONNECT / CONTACT -->
 ## 🤝 Connect With Me
 
 <p align="left">
@@ -150,4 +185,11 @@ Actively seeking roles in:
   <a href="mailto:pradyumngandamalla10@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+</p>
+
+---
+
+<!-- 17. FOOTER BANNER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00B4D8&height=120&section=footer" />
 </p>
