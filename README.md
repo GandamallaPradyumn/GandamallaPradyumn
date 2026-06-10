@@ -2,9 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00B4D8&height=200&section=header&text=Pradyumn%20Gandamalla&fontSize=40&fontColor=ffffff&animation=fadeIn&desc=Data%20Analyst%20%7C%20Backend%20Developer%20%7C%20AI%20Systems&descSize=20&descAlignY=75" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=GandamallaPradyumn&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
 
 ## 🚀 About Me
 
