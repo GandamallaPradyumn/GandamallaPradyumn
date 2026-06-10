@@ -153,11 +153,7 @@ Python • FastAPI • Streamlit • MySQL • Pandas • XGBoost • Plotly
 
 ---
 
-## 📈 Contribution Activity
 
-[![Pradyumn's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GandamallaPradyumn\&theme=tokyo-night)](https://github.com/GandamallaPradyumn)
-
----
 
 ## 🏆 GitHub Trophies
 
