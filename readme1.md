@@ -233,8 +233,8 @@ Embedded with Telangana State Road Transport Corporation, contributing to analyt
 ## ◈ GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pradyumngandamalla&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D0D0D&title_color=A855F7&icon_color=7C3AED&text_color=C4B5FD" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradyumngandamalla&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true&bg_color=0D0D0D&title_color=A855F7&text_color=C4B5FD" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=https://github.com/GandamallaPradyumn&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D0D0D&title_color=A855F7&icon_color=7C3AED&text_color=C4B5FD" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/GandamallaPradyumn&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true&bg_color=0D0D0D&title_color=A855F7&text_color=C4B5FD" />
 </p>
 
 <p align="center">
