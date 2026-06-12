@@ -18,24 +18,24 @@
 </p>
 
 <p align="center">
-  <a href="https://pradyumngandamalla.github.io" target="_blank">
+  <a href="https://GandamallaPradyumn.github.io" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/pradyumn-gandamalla" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:pradyumngandamalla10@gmail.com">
+  <a href="mailto:GandamallaPradyumn10@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/pradyumngandamalla" target="_blank">
+  <a href="https://github.com/GandamallaPradyumn" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pradyumngandamalla&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS" />
-  <img src="https://img.shields.io/github/followers/pradyumngandamalla?style=for-the-badge&color=6D28D9&label=FOLLOWERS" />
-  <img src="https://img.shields.io/github/stars/pradyumngandamalla?style=for-the-badge&color=4C1D95&label=STARS" />
+  <img src="https://komarev.com/ghpvc/?username=GandamallaPradyumn&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS" />
+  <img src="https://img.shields.io/github/followers/GandamallaPradyumn?style=for-the-badge&color=6D28D9&label=FOLLOWERS" />
+  <img src="https://img.shields.io/github/stars/GandamallaPradyumn?style=for-the-badge&color=4C1D95&label=STARS" />
 </p>
 
 ---
@@ -144,7 +144,7 @@ An **end-to-end AI pipeline** predicting passenger demand 2 days ahead across 20
 | **Scheduling Engines** | Delta-KMs (trip optimization) · EPK/OR (earnings-per-km decisions) |
 | **Security** | Structured FastAPI backend · Normalized MySQL schema · Validated ingestion |
 | **Impact** | Live in production across TGSRTC depots · Replaced manual scheduling workflows |
-| **Repository** | [github.com/pradyumngandamalla](https://github.com/pradyumngandamalla) |
+| **Repository** | [github.com/GandamallaPradyumn](https://github.com/GandamallaPradyumn) |
 
 </div>
 
@@ -214,16 +214,16 @@ Embedded with Telangana State Road Transport Corporation, contributing to analyt
 ## ◈ Coding Profiles
 
 <p align="center">
-  <a href="https://leetcode.com/pradyumngandamalla" target="_blank">
+  <a href="https://leetcode.com/GandamallaPradyumn" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
-  <a href="https://www.geeksforgeeks.org/user/pradyumngandamalla" target="_blank">
+  <a href="https://www.geeksforgeeks.org/user/GandamallaPradyumn" target="_blank">
     <img src="https://img.shields.io/badge/GeeksForGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
   </a>
-  <a href="https://www.hackerrank.com/pradyumngandamalla" target="_blank">
+  <a href="https://www.hackerrank.com/GandamallaPradyumn" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" />
   </a>
-  <a href="https://www.codechef.com/users/pradyumngandamalla" target="_blank">
+  <a href="https://www.codechef.com/users/GandamallaPradyumn" target="_blank">
     <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
   </a>
 </p>
@@ -233,12 +233,12 @@ Embedded with Telangana State Road Transport Corporation, contributing to analyt
 ## ◈ GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=https://github.com/GandamallaPradyumn&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D0D0D&title_color=A855F7&icon_color=7C3AED&text_color=C4B5FD" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/GandamallaPradyumn&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true&bg_color=0D0D0D&title_color=A855F7&text_color=C4B5FD" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GandamallaPradyumn&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D0D0D&title_color=A855F7&icon_color=7C3AED&text_color=C4B5FD" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GandamallaPradyumn&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true&bg_color=0D0D0D&title_color=A855F7&text_color=C4B5FD" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=pradyumngandamalla&theme=midnight-purple&hide_border=true&background=0D0D0D&stroke=7C3AED&ring=A855F7&fire=C084FC&currStreakLabel=A855F7&sideLabels=C4B5FD&dates=8B5CF6" />
+  <img src="https://streak-stats.demolab.com/?user=GandamallaPradyumn&theme=midnight-purple&hide_border=true&background=0D0D0D&stroke=7C3AED&ring=A855F7&fire=C084FC&currStreakLabel=A855F7&sideLabels=C4B5FD&dates=8B5CF6" />
 </p>
 
 ---
@@ -246,15 +246,13 @@ Embedded with Telangana State Road Transport Corporation, contributing to analyt
 ## ◈ GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pradyumngandamalla&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7&title=Stars,Followers,Commits,Repositories,PullRequest,Issues,Reviews" />
+  <img src="https://github-profile-trophy.vercel.app/?username=GandamallaPradyumn&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B" />
 </p>
-
----
 
 ## ◈ Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pradyumngandamalla&theme=react-dark&bg_color=0D0D0D&color=A855F7&line=7C3AED&point=C084FC&area=true&hide_border=true" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GandamallaPradyumn&theme=react-dark&bg_color=0D0D0D&color=A855F7&line=7C3AED&point=C084FC&area=true&hide_border=true" width="95%" />
 </p>
 
 ---
@@ -262,7 +260,7 @@ Embedded with Telangana State Road Transport Corporation, contributing to analyt
 ## ◈ Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/pradyumngandamalla/pradyumngandamalla/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/GandamallaPradyumn/GandamallaPradyumn/main/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
@@ -300,17 +298,17 @@ current_focus:
 
 <p align="center">
   <a href="mailto:pradyumngandamalla10@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-pradyumngandamalla10%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-Pradyumngandamalla10%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 <p align="center">
   <a href="https://www.linkedin.com/in/pradyumn-gandamalla" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/pradyumngandamalla" target="_blank">
+  <a href="https://github.com/GandamallaPradyumn" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Follow-171515?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://pradyumngandamalla.github.io" target="_blank">
+  <a href="https://GandamallaPradyumn.github.io" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
