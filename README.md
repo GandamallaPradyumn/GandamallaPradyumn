@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  <a href="https://GandamallaPradyumn.github.io" target="_blank">
+  <a href="https://gandamallapradyumn.github.io/pradyumn/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/pradyumn-gandamalla" target="_blank">
