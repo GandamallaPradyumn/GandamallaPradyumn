@@ -298,7 +298,7 @@ current_focus:
 
 <p align="center">
   <a href="mailto:pradyumngandamalla10@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Pradyumngandamalla10%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-pradyumngandamalla10%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" />
   </a>
 </p>
 <p align="center">
