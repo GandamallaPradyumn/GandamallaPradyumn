@@ -49,7 +49,7 @@ location    : Hyderabad, Telangana, India
 experience  : End-to-end AI pipelines, analytical dashboards, backend APIs
 ```
 
-I am a **Data Analyst and AI Engineer** with hands-on production experience building intelligent systems that drive operational decisions at scale. At **TGSRTC**, I architected and deployed a live demand forecasting and dynamic scheduling platform — ingesting raw depot data, running XGBoost models, and surfacing insights through Streamlit dashboards used across 97+ depots statewide.
+I am a **Data Analyst and AI Engineer** with hands-on production experience building intelligent systems that drive operational decisions at scale. At **TGSRTC**, I architected and deployed a live demand forecasting and dynamic scheduling platform — ingesting raw depot data, running XGBoost models, and surfacing insights through Streamlit dashboards now live across all **97 depots statewide**.
 
 My engineering philosophy sits at the intersection of **data science**, **backend systems**, and **product thinking** — building pipelines that are not just technically sound but operationally impactful. I bring a strong emphasis on clean ETL architecture, reproducible ML workflows, rigorous testing, and KPI-driven delivery.
 
@@ -131,19 +131,19 @@ My engineering philosophy sits at the intersection of **data science**, **backen
 
 <br/>
 
-An **end-to-end AI pipeline** predicting passenger demand 2 days ahead across 20+ TGSRTC depots, powering daily operational scheduling decisions for Telangana's state bus network.
+An **end-to-end AI pipeline** predicting passenger demand 2 days ahead across all **97 TGSRTC depots**, powering daily operational scheduling decisions for Telangana's entire state bus network.
 
 <div align="center">
 
 | Attribute | Details |
 |---|---|
 | **Stack** | Python · XGBoost · FastAPI · Streamlit · Pandas · Parquet · Open-Meteo API |
-| **Scale** | 20+ depots · 97+ monitored KPI streams · 10,000+ operational records |
+| **Scale** | 97 depots · 97+ monitored KPI streams · 10,000+ operational records |
 | **ML Model** | XGBoost with T+2 horizon · 15+ engineered features |
 | **Performance** | 3-stage automated pipeline · 123 pytest unit tests · Production reliability |
 | **Scheduling Engines** | Delta-KMs (trip optimization) · EPK/OR (earnings-per-km decisions) |
 | **Security** | Structured FastAPI backend · Normalized MySQL schema · Validated ingestion |
-| **Impact** | Live in production across TGSRTC depots · Replaced manual scheduling workflows |
+| **Impact** | Live in production across all 97 TGSRTC depots statewide · Replaced manual scheduling workflows |
 | **Repository** | [github.com/GandamallaPradyumn](https://github.com/GandamallaPradyumn) |
 
 </div>
@@ -163,12 +163,12 @@ Feature engineering was central to model quality: day-of-week lag variables, 7-d
 
 Embedded with Telangana State Road Transport Corporation, contributing to analytics infrastructure and a production AI system serving the operational backbone of Telangana's public transit network.
 
-- Designed and deployed **Streamlit dashboards** monitoring 20+ KPIs across 97+ depots — covering productivity metrics, earnings trends, and leave ratios.
+- Designed and deployed **Streamlit dashboards** monitoring 20+ KPIs across all **97 depots** statewide — covering productivity metrics, earnings trends, and leave ratios.
 - Built a **FastAPI backend** for structured data ingestion and process automation, reducing manual reporting overhead by **60%**.
 - Architected a **normalized MySQL schema** to support multi-depot operational data across Telangana's regional bus network.
 - Cleaned, validated, and processed **10,000+ operational records** to produce actionable productivity and performance insights.
 - Executed **KPI analysis and benchmark-vs-actual variance tracking**, enabling data-driven depot performance evaluation.
-- Core contributor to the **live AI-based demand forecasting and dynamic scheduling system** now in production across TGSRTC depots.
+- Core contributor to the **live AI-based demand forecasting and dynamic scheduling system** now in production across all **97 TGSRTC depots statewide**.
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
@@ -188,7 +188,7 @@ Embedded with Telangana State Road Transport Corporation, contributing to analyt
 
 | Recognition | Details |
 |---|---|
-| **Live Production Deployment** | AI demand forecasting system deployed across 20+ TGSRTC depots, Telangana |
+| **Live Production Deployment** | AI demand forecasting system deployed across all 97 TGSRTC depots statewide, Telangana |
 | **60% Reporting Reduction** | FastAPI automation eliminated 60% of manual reporting effort at TGSRTC |
 | **10,000+ Records Processed** | Cleaned and transformed large-scale operational datasets into KPI insights |
 | **123 Unit Tests Written** | Full pytest coverage ensuring production-grade pipeline reliability |
