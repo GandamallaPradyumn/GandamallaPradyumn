@@ -1,9 +1,6 @@
-<!-- Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&center=true&vWidth=700&lines=Hey+there%2C+I'm+Pradyumn+%F0%9F%91%8B;Data+Analyst+%7C+AI+%2F+Backend+Engineer;Building+systems+that+make+better+decisions." alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00B4D8&height=200&section=header&text=Pradyumn%20Gandamalla&fontSize=40&fontColor=ffffff&animation=fadeIn&desc=Data%20Analyst%20%7C%20Python%20Developer&descSize=20&descAlignY=75" />
 </p>
-
----
 
 ## ◈ About
 
