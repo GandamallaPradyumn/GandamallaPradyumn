@@ -117,23 +117,6 @@ Embedded with Telangana State Road Transport Corporation, contributing to analyt
 
 ---
 
-## ◈ GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GandamallaPradyumn&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GandamallaPradyumn&theme=tokyonight" />
-</p>
-
----
-
-## ◈ GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=GandamallaPradyumn&theme=tokyonight&no-frame=true&row=1" />
-</p>
-
----
-
 ## ◈ Current Focus
 
 ```yaml
