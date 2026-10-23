@@ -78,6 +78,39 @@ My engineering philosophy sits at the intersection of data science, backend syst
 > End-to-end AI pipeline deployed across all 97 TGSRTC depots statewide.  
 > Built entirely in **VS Code** · Prototyped and validated in **Jupyter Notebook**
 
+**What it does:** Ingests raw depot operational data, forecasts demand two days ahead (T+2), and generates ready-to-use depot schedules that operations teams can act on directly.
+
+**Pipeline**
+
+```text
+Raw depot data → Cleaning & validation → Feature engineering (Parquet)
+      → XGBoost T+2 forecast → Scheduling engines → XLSX schedules + Streamlit dashboards
+```
+
+**Highlights**
+- **Forecasting:** XGBoost T+2 demand model using temporal, lag, weather, and festival features.
+- **Feature engineering:** 15+ engineered features, including rolling statistics, lag variables, and holiday proximity flags.
+- **Baselines:** Day-of-week patterns, 7-day rolling medians, and same-DOW historical medians.
+- **Scheduling:** Dual engines — Delta-KMs and EPK/OR — producing XLSX schedule output.
+- **Weather enrichment:** Live forecast ingestion through the Open-Meteo API.
+- **Reliability:** 123 pytest unit tests, schema validation, and 3-stage pipeline integrity checks.
+- **Delivery:** Streamlit dashboards live across all 97 depots statewide.
+
+**Stack:** `Python` · `XGBoost` · `Pandas` · `NumPy` · `Apache Parquet` · `Open-Meteo API` · `Streamlit` · `Plotly` · `FastAPI` · `MySQL` · `pytest`
+
+---
+
+### ⬡ TGSRTC KPI Monitoring Dashboards & Reporting Automation
+
+> Streamlit dashboards tracking 20+ KPIs across all 97 depots, backed by a FastAPI ingestion layer and a normalized MySQL schema.
+
+- Dashboards cover productivity metrics, earnings trends, and leave ratios.
+- FastAPI backend automates structured data ingestion, reducing manual reporting overhead by **60%**.
+- Normalized MySQL schema supports multi-depot operational data.
+- Benchmark-vs-actual variance tracking for depot performance evaluation.
+
+**Stack:** `Python` · `Streamlit` · `FastAPI` · `MySQL` · `Pandas`
+
 ---
 
 ## ◈ Experience
